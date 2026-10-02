@@ -4,8 +4,6 @@ from graphviz import Digraph
 
 import deadlock as dl
 
-STUDENT = "Name: ________  |  Roll No: ________  |  Subject: Operating Systems"
-
 st.set_page_config(page_title="Deadlock Simulator", page_icon="🔒", layout="wide")
 
 # ---------------- examples & state ----------------
