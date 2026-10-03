@@ -865,7 +865,6 @@ with info_tab:
             st.write("• Hold and Wait")
             st.write("• No Preemption")
             st.write("• Circular Wait")
-            st.write("• Resource Ordering")
 
     with c:
         with st.container(border=True):
